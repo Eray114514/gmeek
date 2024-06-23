@@ -5,7 +5,7 @@
 - 点击`General`中`TUN Mode`右边开关启动 TUN 模式。
 ![add-firewall-rules](https://github.com/Eray114514/blog.github.io/assets/117504718/39364738-688f-4c0f-b5be-9cee10b99557)
 ## MacOS
-- ClashX Pro（ClashX不支持）的`增强模式`等于TUN模式[下载ClashX Pro](https://down.clashcn.com/soft/clashcn.com_ClashXPro.dmg)
+- ClashX Pro（ClashX不支持，[下载ClashX Pro](https://down.clashcn.com/soft/clashcn.com_ClashXPro.dmg)）的`增强模式`等于TUN模式
 - 如图，点击`增强模式`，等待至其左边打上“✓”
 - 开启了增强模式则不需要开启系统代理
 ![4c2c5bb7132e77f843c2be178ca62793c4ed4027_s2_n2_y2](https://github.com/Eray114514/gmeek/assets/117504718/5107816f-d614-4a5f-bc47-5821cd081843)
