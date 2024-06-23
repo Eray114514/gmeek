@@ -38,4 +38,5 @@
       dns-hijack:
         - 1.0.0.1:53
     ```
+***
 详细教程：[Clash官方文档-TUN模式](https://doc.clashforwindows.app/tun/)
