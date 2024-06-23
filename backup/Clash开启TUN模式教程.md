@@ -8,7 +8,7 @@
 - ClashX Pro（ClashX不支持）的`增强模式`等于TUN模式
 - 如图，点击`增强模式`，等待至其左边打上“✓”
 - 开启了增强模式则不需要开启系统代理
-![PixPin_2024-06-23_13-27-13](https://github.com/Eray114514/gmeek/assets/117504718/0bc9be2e-b1ec-4011-80c0-422a236ff94e)
+![4c2c5bb7132e77f843c2be178ca62793c4ed4027_s2_n2_y2](https://github.com/Eray114514/gmeek/assets/117504718/5107816f-d614-4a5f-bc47-5821cd081843)
 ## Linux
 - 点击`General`中`Service Mode`右边`Manage`，在打开窗口中安装服务模式，安装完成应用会自动重启（某些系统需要手动重启 APP），`Service Mode`右边地球图标变为`绿色`即安装成功。
 - 点击`General`中`TUN Mode`右边开关启动 TUN 模式。
