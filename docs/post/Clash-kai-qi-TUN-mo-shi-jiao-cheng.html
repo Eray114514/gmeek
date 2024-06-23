@@ -86,22 +86,10 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 </ul>
 <h2>MacOS</h2>
 <ul>
-<li>点击<code class="notranslate">General</code>中<code class="notranslate">Service Mode</code>右边<code class="notranslate">Manage</code>，在打开窗口中安装服务模式，安装完成应用会自动重启，<code class="notranslate">Service Mode</code>右边地球图标变为<code class="notranslate">绿色</code>即安装成功。</li>
-<li>点击<code class="notranslate">General</code>中<code class="notranslate">TUN Mode</code>右边开关启动 TUN 模式。</li>
-<li>在使用的配置文件中加入如下内容：
-<div class="highlight highlight-source-yaml"><pre class="notranslate"><span class="pl-ent">dns</span>:
-  <span class="pl-ent">enable</span>: <span class="pl-c1">true</span>
-  <span class="pl-ent">enhanced-mode</span>: <span class="pl-s">fake-ip</span>
-  <span class="pl-ent">nameserver</span>:
-    - <span class="pl-s">114.114.114.114</span>
-<span class="pl-ent">tun</span>:
-  <span class="pl-ent">enable</span>: <span class="pl-c1">true</span>
-  <span class="pl-ent">stack</span>: <span class="pl-s">system</span>
-  <span class="pl-ent">dns-hijack</span>:
-    - <span class="pl-s">114.114.114.114</span>
-  <span class="pl-ent">auto-route</span>: <span class="pl-c1">true</span>
-  <span class="pl-ent">auto-detect-interface</span>: <span class="pl-c1">true</span></pre></div>
-</li>
+<li>ClashX Pro（ClashX不支持）的<code class="notranslate">增强模式</code>等于TUN模式</li>
+<li>如图，点击<code class="notranslate">增强模式</code>，等待至其左边打上“✓”</li>
+<li>开启了增强模式则不需要开启系统代理<br>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/Eray114514/gmeek/assets/117504718/0bc9be2e-b1ec-4011-80c0-422a236ff94e"><img src="https://github.com/Eray114514/gmeek/assets/117504718/0bc9be2e-b1ec-4011-80c0-422a236ff94e" alt="PixPin_2024-06-23_13-27-13" style="max-width: 100%;"></a></li>
 </ul>
 <h2>Linux</h2>
 <ul>
