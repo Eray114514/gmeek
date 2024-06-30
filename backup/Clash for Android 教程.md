@@ -6,7 +6,7 @@
 3. 点击右上角+号
 4. 点击“**从url导入**”
 5. 然后如图操作
-![1](https://github.com/Eray114514/gmeek/assets/117504718/b1f0cf44-441b-40f8-89b9-c1d3d918f028)
+![1](https://github.com/Eray114514/gmeek/assets/117504718/57be69c9-3d07-4d7e-b556-c8dc9c6ceb35)
 ![2](https://github.com/Eray114514/gmeek/assets/117504718/5dc7d7bb-a024-43b2-a192-0db0cc181b88)
 ![3](https://github.com/Eray114514/gmeek/assets/117504718/65c45bab-f0f1-44ae-98eb-51a6c0721fdc)
 ![4](https://github.com/Eray114514/gmeek/assets/117504718/8c45a583-0c48-4f64-b1a4-f14e17f039fd)
