@@ -82,9 +82,9 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 <span class="pl-mh">###### <span class="pl-en">六级标题</span></span></pre></div>
 <h2>强调</h2>
 <ul>
-<li><em>斜体</em> 或 <em>斜体</em>：将文字两边各加上一个 <code class="notranslate">*</code> 或 <code class="notranslate">_</code>。</li>
-<li><strong>粗体</strong> 或 <strong>粗体</strong>：将文字两边各加上两个 <code class="notranslate">*</code> 或 <code class="notranslate">_</code>。</li>
-<li><em><strong>粗斜体</strong></em> 或 <em><strong>粗斜体</strong></em>：将文字两边各加上三个 <code class="notranslate">*</code> 或 <code class="notranslate">_</code>。</li>
+<li><em>斜体</em> ：将文字两边各加上一个 <code class="notranslate">*</code> 或 <code class="notranslate">_</code>。</li>
+<li><strong>粗体</strong>：将文字两边各加上两个 <code class="notranslate">*</code> 或 <code class="notranslate">_</code>。</li>
+<li><em><strong>粗斜体</strong></em>：将文字两边各加上三个 <code class="notranslate">*</code> 或 <code class="notranslate">_</code>。</li>
 </ul>
 <h2>列表</h2>
 <ul>
@@ -113,19 +113,21 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 <div class="highlight highlight-text-md"><pre class="notranslate"><span class="pl-ent"><span class="pl-ent">&gt; </span>这是一个引用。</span></pre></div>
 <h2>代码</h2>
 <ul>
-<li>行内代码：用一对反引号包围代码（不换行） <code class="notranslate">code</code>。反引号：`</li>
+<li>行内代码：用一对反引号"`"包围代码:`code`→<code class="notranslate">code</code></li>
 <li>代码块：用一对三个反引号上下包围代码块。</li>
 </ul>
-<p>```（可以在后面写上代码语言如：python）</p>
-<p>你的代码内容</p>
-<p>```</p>
+<blockquote>
+<p>```（可以在后面加上代码语言如：python）<br>
+print("Hello World")<br>
+```</p>
+</blockquote>
+<div class="highlight highlight-source-python"><pre class="notranslate"><span class="pl-en">print</span>(<span class="pl-s">"Hello World"</span>)</pre></div>
 <h2>表格</h2>
 <p>使用 <code class="notranslate">|</code> 和 <code class="notranslate">-</code> 创建表格：</p>
 <div class="highlight highlight-text-md"><pre class="notranslate"><span class="pl-ml">|</span> 标题1 <span class="pl-ml">|</span> 标题2 <span class="pl-ml">|</span> 标题3 <span class="pl-ml">|</span>
 <span class="pl-ml">|</span>-------<span class="pl-ml">|</span>-------<span class="pl-ml">|</span>-------<span class="pl-ml">|</span>
 <span class="pl-ml">|</span> 单元格1 <span class="pl-ml">|</span> 单元格2 <span class="pl-ml">|</span> 单元格3 <span class="pl-ml">|</span>
 <span class="pl-ml">|</span> 单元格4 <span class="pl-ml">|</span> 单元格5 <span class="pl-ml">|</span> 单元格6 <span class="pl-ml">|</span></pre></div>
-<p>效果：</p>
 <table role="table">
 <thead>
 <tr>
@@ -154,8 +156,8 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 <p>Markdown 支持直接插入 HTML 代码，但某些平台可能会限制这一功能。</p>
 <div class="highlight highlight-text-html-basic"><pre class="notranslate"><span class="pl-kos">&lt;</span><span class="pl-ent">p</span><span class="pl-kos">&gt;</span>这是一个HTML段落。<span class="pl-kos">&lt;/</span><span class="pl-ent">p</span><span class="pl-kos">&gt;</span></pre></div>
 <h2>转义字符</h2>
-<p>使用反斜杠 <code class="notranslate">\</code> 转义特殊字符：</p>
-<div class="highlight highlight-text-md"><pre class="notranslate"><span class="pl-c1">\*</span>这不是一个列表项<span class="pl-c1">\*</span></pre></div>
+<p>您可以在 Markdown 字符前使用 \ 命令 GitHub 忽略（或转义）Markdown 格式：*这不是一个斜体*</p>
+<div class="highlight highlight-text-md"><pre class="notranslate"><span class="pl-c1">\*</span>这不是一个斜体<span class="pl-c1">\*</span></pre></div>
 <hr>
 <div class="markdown-alert markdown-alert-tip"><p class="markdown-alert-title"><svg class="octicon octicon-light-bulb mr-2" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 0 1-1.484.211c-.04-.282-.163-.547-.37-.847a8.456 8.456 0 0 0-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.751.751 0 0 1-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75ZM5.75 12h4.5a.75.75 0 0 1 0 1.5h-4.5a.75.75 0 0 1 0-1.5ZM6 15.25a.75.75 0 0 1 .75-.75h2.5a.75.75 0 0 1 0 1.5h-2.5a.75.75 0 0 1-.75-.75Z"></path></svg>Tip</p><p>根据不同的解析器或平台，还可能支持额外的功能或语法。</p>
 </div></div>
