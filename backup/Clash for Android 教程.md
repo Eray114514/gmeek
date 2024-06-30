@@ -1,6 +1,6 @@
 ## 下载Clash
 > [!NOTE]
-> [点击下载Clash安卓版](https://aiyouzi.top/d/OneDrive4/Tsm/clash/%E5%AE%89%E5%8D%93/clashcn.com_cfa-2.5.3.apk)
+> <a href="https://aiyouzi.top/d/OneDrive4/Tsm/clash/%E5%AE%89%E5%8D%93/clashcn.com_cfa-2.5.3.apk">点击下载Clash安卓版</a>
 ## 添加 Clash 配置订阅
 1. 复制订阅链接
 2. 点击“**配置**”
