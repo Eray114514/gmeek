@@ -1,17 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Eray's Blog</title><link>https://blog.eraymao.uk</link><description>Fick dich Guten Tag</description><copyright>Eray's Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/117504718?s=400&amp;u=3198edc9c52b341cd6aef6024d5372fa456c9607&amp;v=4</url><title>avatar</title><link>https://blog.eraymao.uk</link></image><lastBuildDate>Sun, 30 Jun 2024 06:34:26 +0000</lastBuildDate><managingEditor>Eray's Blog</managingEditor><ttl>60</ttl><webMaster>Eray's Blog</webMaster><item><title>Clash for Android 教程</title><link>https://blog.eraymao.uk/post/Clash%20for%20Android%20-jiao-cheng.html</link><description>## 下载Clash&#13;
-[Clash安卓版下载地址](https://aiyouzi.top/d/OneDrive4/Tsm/clash/%E5%AE%89%E5%8D%93/clashcn.com_cfa-2.5.3.apk)&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Eray's Blog</title><link>https://blog.eraymao.uk</link><description>Fick dich Guten Tag</description><copyright>Eray's Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/117504718?s=400&amp;u=3198edc9c52b341cd6aef6024d5372fa456c9607&amp;v=4</url><title>avatar</title><link>https://blog.eraymao.uk</link></image><lastBuildDate>Sun, 30 Jun 2024 06:53:58 +0000</lastBuildDate><managingEditor>Eray's Blog</managingEditor><ttl>60</ttl><webMaster>Eray's Blog</webMaster><item><title>Clash for Android 教程</title><link>https://blog.eraymao.uk/post/Clash%20for%20Android%20-jiao-cheng.html</link><description>## 下载Clash&#13;
+&gt; [!NOTE]&#13;
+&gt; [点击下载Clash安卓版](https://aiyouzi.top/d/OneDrive4/Tsm/clash/%E5%AE%89%E5%8D%93/clashcn.com_cfa-2.5.3.apk)&#13;
 ## 添加 Clash 配置订阅&#13;
 1. 复制订阅链接&#13;
 2. 点击“**配置**”&#13;
 3. 点击右上角+号&#13;
 4. 点击“**从url导入**”&#13;
 5. 然后如图操作&#13;
+&#13;
 ![1](https://github.com/Eray114514/gmeek/assets/117504718/71218157-bb41-4944-8300-1f33ec9aa1f1)&#13;
 ![2](https://github.com/Eray114514/gmeek/assets/117504718/5dc7d7bb-a024-43b2-a192-0db0cc181b88)&#13;
 ![3](https://github.com/Eray114514/gmeek/assets/117504718/65c45bab-f0f1-44ae-98eb-51a6c0721fdc)&#13;
 ![4](https://github.com/Eray114514/gmeek/assets/117504718/8c45a583-0c48-4f64-b1a4-f14e17f039fd)&#13;
 ## 选择代理模式&#13;
+&gt; [!TIP]&#13;
 &gt; 前往 App 主页，轻点「代理 / Proxy」&gt;「┇」&gt;「模式 / Mode」，根据您的需求选择代理模式。</description><guid isPermaLink="true">https://blog.eraymao.uk/post/Clash%20for%20Android%20-jiao-cheng.html</guid><pubDate>Sun, 30 Jun 2024 05:16:04 +0000</pubDate></item><item><title>Markdown介绍及基本语法</title><link>https://blog.eraymao.uk/post/Markdown-jie-shao-ji-ji-ben-yu-fa.html</link><description>Markdown 是一种轻量级标记语言，它允许人们使用易读易写的纯文本格式编写文档，然后转换成结构化的HTML代码。</description><guid isPermaLink="true">https://blog.eraymao.uk/post/Markdown-jie-shao-ji-ji-ben-yu-fa.html</guid><pubDate>Sun, 23 Jun 2024 04:47:28 +0000</pubDate></item><item><title>Clash开启TUN模式教程</title><link>https://blog.eraymao.uk/post/Clash-kai-qi-TUN-mo-shi-jiao-cheng.html</link><description>&gt; 对于不遵循系统代理的软件，TUN 模式可以接管其流量并交由 CFW 处理，在 Windows 中，TUN 模式性能比 TAP 模式好&#13;
 &#13;
 ## Windows&#13;
