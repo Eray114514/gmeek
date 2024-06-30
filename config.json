@@ -6,5 +6,6 @@
     "themeMode":"fix",
     "dayTheme":"dark",
     "nightTheme":"dark-blue",
+    "urlMode":"issue",
     "homeUrl":"https://blog.eraymao.uk"
 }
