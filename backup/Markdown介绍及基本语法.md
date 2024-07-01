@@ -76,7 +76,7 @@ Markdown 支持直接插入 HTML 代码，但某些平台可能会限制这一�
 <p>这是一个HTML段落。</p>
 ```
 ## 转义字符
-您可以在 Markdown 字符前使用 \ 命令 GitHub 忽略（或转义）Markdown 格式：\*这不是一个斜体\*
+您可以在 Markdown 字符前使用 \ 命令 Markdown 解析器忽略（转义）Markdown 格式：\*这不是一个斜体\*
 ```markdown
 \*这不是一个斜体\*
 ```
