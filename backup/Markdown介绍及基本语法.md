@@ -37,6 +37,7 @@
   ```markdown
   ![这是一张图片](https://example.com/image.jpg)
   ```
+>  "标题"指鼠标悬停在链接上时显示的文本，该项非必要项
 ## 引用
 在引用的文字前加上 `>` 符号：
 ```markdown
